@@ -7,5 +7,5 @@ services:
     build: ./virtualhere
     privileged: true
     ## network_mode: host
-    ports: 
-      - 7575:7575
+    ##ports: 
+    ## - 7575:7575
